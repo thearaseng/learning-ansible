@@ -7,3 +7,8 @@
 ```ansible all -m ping```
 
 ![](screenshots/using-ansible.cfg.png)
+
+### Install Apache2 playbook
+```ansible-playbook install_apache.yml```
+
+![](screenshots/apache2-playbook.png)
