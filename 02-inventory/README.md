@@ -12,3 +12,7 @@
 ```ansible-playbook install_apache.yml```
 
 ![](screenshots/apache2-playbook.png)
+
+### Uninstall Apache2 playbook
+```ansible-playbook remove_apache.yml```
+
